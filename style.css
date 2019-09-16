@@ -4,4 +4,5 @@ body { background-color:rgb(255,228,181);}
 img.center {display: block;margin-left: auto;margin-right: auto;}
 h1{ text-align:center;}
 p{ text-align:center;}
-#aryana {float:center;}
+#aryana {float:right;}
+#aryana2 {float:left;}
